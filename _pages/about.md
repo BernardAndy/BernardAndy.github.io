@@ -9,11 +9,11 @@ redirect_from:
 
 ## About
 
-I am a Molecular Biologist and Genomics researcher based in Ibadan, Nigeria, with a growing interest in the intersection of biological systems, data, and intelligent tools.
+I am a Molecular Biologist and Genomics researcher based in Ibadan, Nigeria, specializing in wet lab processes, DNA extraction, and forensic genetic analysis. My work bridges experimental molecular biology with computational genomics, enabling accurate data-driven insights from complex biological systems.  
 
-My work explores how molecular biology, computational thinking, and structured analysis can be applied to real-world challenges — from genomic research to governance and scientific systems.
+Beyond the lab, I engage in strategic policy and governance research, applying analytical frameworks to support evidence-based decision-making in scientific and societal contexts. My interests span forensic DNA analysis, microbial genetics, genomic research, and the development of structured workflows that integrate laboratory practice, data analysis, and policy advisory.  
 
----
+I am passionate about translating rigorous scientific research into actionable knowledge, whether in molecular biology, genomics, or governance systems, while building tools and methodologies that enhance reproducibility, accuracy, and impact.
 
 ## Research Interests
 
