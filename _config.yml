@@ -22,7 +22,7 @@ repository               : "BernardAndy/BernardAndy.github.io" # REPLACE WITH YO
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
  # Biographic information
-avatar           : "profile.png"
+avatar           : "/images/profile.jpg"
 name             : "Bernard Andy"
 pronouns         :  
 bio              : "Molecular Biologist & Genomics researcher exploring systems, data & intelligent tools."
