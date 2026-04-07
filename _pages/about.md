@@ -42,17 +42,8 @@ I am passionate about translating rigorous scientific research into actionable k
 
 *(More projects will be added as work progresses.)*
 
----
 
-## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/realabernard)  
-- [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)  
-- [ORCID](https://orcid.org/0009-0005-9480-3086)  
-- [ResearchGate](https://www.researchgate.net/profile/Andy-Bernard)  
-- [GitHub](https://github.com/BernardAndy)  
-
----
 
 ## Note
 
