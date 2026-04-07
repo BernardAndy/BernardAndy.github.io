@@ -27,9 +27,11 @@ The comments section is filled with frustration:
 
 ---
 
-These remarks are valid and they stem from a genuine desire for fiscal responsibility and national progress. However, what many people don’t realize is that countries are not treated equally in global finance.  
+These remarks are valid and they stem from a genuine desire for fiscal responsibility and national progress. However, what many people don’t realize is that countries are not treated equally in global finance. The truth is that the global financial system is a **structured hierarchy**, where countries occupy different tiers with distinct rules, access, and constraints. To grasp Nigeria’s position and the opportunities and limitations that come with it we need to understand how nations are classified, why our “Blend” status matters, and what it means for our capacity to build scientific and economic sovereignty.
 
-The global economic system is not a flat playing field. It is a structured hierarchy. The World Bank Group does not lend money randomly. They classify economies based on **Gross National Income (GNI) per capita**. This label determines the type of financial support a country can access, the interest rates it pays, and the conditions that are attached to the funds.  
+---
+
+The global economic system is far from a level playing field. It operates as a carefully structured hierarchy, where countries are ranked, categorized, and constrained by rules that determine what resources, funding, and opportunities they can access. The World Bank Group does not lend money randomly. They classify economies based on **Gross National Income (GNI) per capita** and this label determines the type of financial support a country can access, the interest rates it pays, and the conditions that are attached to the funds.  
 
 For the current 2026 fiscal year, the World Bank classifies economies into four distinct groups and understanding these groups is key to understanding Nigeria’s position.
 
