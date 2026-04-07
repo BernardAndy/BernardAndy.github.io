@@ -77,9 +77,3 @@ Volunteering and Leadership
 *   Supported planning and coordination of youth-focused leadership and career development events.
 *   Contributed to organizing outreach programmes and engagement activities.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
