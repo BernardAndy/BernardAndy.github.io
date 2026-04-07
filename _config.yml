@@ -20,7 +20,7 @@ author:
   bio              : "Molecular Biologist & Genomics researcher exploring systems, data & intelligent tools."
   location         : "Ibadan, Nigeria"
   employer         : "Lead City University"
-  uri              : "https://www.linkedin.com/in/realabernard"
+  #uri              : "https://www.linkedin.com/in/realabernard"
   email            : "andybernardcc@gmail.com" 
   
   # Academic websites
@@ -31,7 +31,7 @@ author:
   # Social media & Repositories
   linkedin         : "realabernard"
   twitter          : "Benhud_Andi"
-  github           : "BernardAndy"
+  #github           : "BernardAndy"
   youtube          : "TMB_Room"
   medium           : "https://medium.com/@realabernard"
 
