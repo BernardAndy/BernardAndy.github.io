@@ -44,9 +44,3 @@ For a detailed analysis, including legislative recommendations, infrastructure f
   <i class="fas fa-file-pdf"></i> Download Full PDF (14 Pages)
 </a>
 
----
-
-**Authored by Bernard Andy**  
-*Independent Researcher in Forensic Science & Genomic Governance*  
-*Affiliated with the Centre for Forensic Programmes and DNA Studies, University of Benin*  
-*March 2, 2026*
