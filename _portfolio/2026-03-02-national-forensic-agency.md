@@ -12,9 +12,10 @@ tags:
   - National Security
 categories:
   - Policy Briefs
+author_profile: true
 header:
-  overlay_image: /images/forensic-bg.jpg # Optional: Add a background image if you have one
- 
+  overlay_image: /images/forensic-bg.jpg
+  caption: "Photo credit: Bernard Andy"
 ---
 
 ## Executive Summary
@@ -31,17 +32,17 @@ This 14-page policy brief argues for the urgent establishment of a **National Fo
 *   **Strategic Financing:** Recommendations on leveraging international "Blend" country financing to build infrastructure without overburdening the national budget.
 *   **Legislative Roadmap:** Specific amendments required for the Evidence Act 2011 and the proposed NFA Bill to ensure legal robustness.
 
+## Why This Matters Now
+
+As Nigeria advances its digital and scientific infrastructure, the lack of a centralized forensic authority remains a bottleneck for both national security and human rights protection. This brief provides a roadmap for policymakers, legislators, and international partners to support this critical institutional reform.
+
 ## Download the Full Policy Brief
 
-For a detailed analysis, including legislative recommendations, infrastructure frameworks, comparative case studies from the UK and South Africa, and a implementation timeline, please download the full document below.
+For a detailed analysis, including legislative recommendations, infrastructure frameworks, comparative case studies from the UK and South Africa, and an implementation timeline, please download the full document below.
 
 <a href="/files/National_Forensic_Agency_Policy_Brief.pdf" class="btn btn--primary btn--large">
   <i class="fas fa-file-pdf"></i> Download Full PDF (14 Pages)
 </a>
-
-## Why This Matters Now
-
-As Nigeria advances its digital and scientific infrastructure, the lack of a centralized forensic authority remains a bottleneck for both national security and human rights protection. This brief provides a roadmap for policymakers, legislators, and international partners to support this critical institutional reform.
 
 ---
 
