@@ -14,7 +14,7 @@ categories:
   - Policy Briefs
 header:
   overlay_image: /images/forensic-bg.jpg # Optional: Add a background image if you have one
-  caption: "Photo credit: [Unsplash](https://unsplash.com)"
+ 
 ---
 
 ## Executive Summary
