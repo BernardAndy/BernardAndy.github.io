@@ -15,7 +15,7 @@ repository               : "BernardAndy/BernardAndy.github.io"
 
 # Site Author - Sidebar Content
 author:
-  avatar           : "/images/bio-photo.jpg" # ENSURE THIS FILE EXISTS IN YOUR IMAGES FOLDER
+  avatar           : "/images/me.png" # ENSURE THIS FILE EXISTS IN YOUR IMAGES FOLDER
   name             : "Bernard Andy"
   bio              : "Molecular Biologist & Genomics researcher exploring systems, data & intelligent tools."
   location         : "Ibadan, Nigeria"
