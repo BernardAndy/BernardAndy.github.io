@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,6 +13,8 @@ Professional Summary
 ======
 Early-career researcher in molecular biology and genomics with expertise at the intersection of science, policy, and governance. Holds an MSc in Molecular Biology and Genomics and has research experience at the Centre for Forensic Programme and DNA Studies. Demonstrates strong analytical and investigative capabilities, complemented by practical exposure to public sector governance through work with the Public Complaints Commission and policy training with the Institute of Policy Management and Development (IPMD). Passionate about advancing evidence-based solutions in global health, bio-data governance, and emerging technologies, with a focus on strengthening equitable and secure systems in Africa.
 
+---
+
 Education
 ======
 * **M.Sc. in Molecular Biology and Genomics**
@@ -20,6 +22,8 @@ Education
 
 * **B.Sc. in Biology (Second Class Lower)**
   * Niger Delta University, Wilberforce Island, Amassoma | Sept 2012 – Sept 2016
+
+---
 
 Work Experience
 ======
@@ -62,6 +66,8 @@ Work Experience
 *   Supported administrative operations and logistics coordination.
 *   Maintained records and assisted in business process management.
 
+---
+
 Certifications and Training
 ======
 * **Fellowship Certification** – Institute of Policy Management and Development (IPMD)
@@ -69,12 +75,16 @@ Certifications and Training
 * **Humanitarian Response to Conflict and Disaster** – HarvardX, Harvard University
 * **QGIS Certification** – University of Karnataka
 
+ ---
+ 
 Skills
 ======
 * **Laboratory & Technical:** DNA/RNA Extraction, Electrophoresis, PCR, Microbial Sample Handling, Forensic Data Interpretation.
 * **Policy & Governance:** Bio-data Governance, Legislative Analysis (Evidence Act 2011, NDPA 2023), Public Sector Administration, Stakeholder Engagement.
 * **Research & Analysis:** Scientific Writing, Critical Thinking, Policy Brief Development, QGIS (Geospatial Analysis).
 * **Soft Skills:** Strategic Negotiation, Communication, Problem Solving, Team Coordination.
+
+---
 
 Volunteering and Leadership
 ======
