@@ -24,11 +24,9 @@ author:
   location: "Ibadan, Nigeria"
   employer: "Lead City University"
   email: "andybernardcc@gmail.com"
-  # Academic
   academia: "https://leadcity.academia.edu/AndyBernard"
   orcid: "https://orcid.org/0009-0005-9480-3086"
   researchgate: "https://www.researchgate.net/profile/Andy-Bernard"
-  # Social
   linkedin: "realabernard"
   twitter: "Benhud_Andi"
   youtube: "TMB_Room"
@@ -47,9 +45,9 @@ publication_category:
     title: "Journal Articles"
   conferences:
     title: "Conference Papers"
+
 # ==========================
-# Site Settings
-# ==========================
+# Site Settings# ==========================
 teaser: ""
 breadcrumbs: false
 words_per_minute: 160
@@ -96,9 +94,9 @@ yandex_site_verification: ""
 
 # ==========================
 # Social Sharing
-# ==========================twitter:
+# ==========================
+twitter:
   username: "Benhud_Andi"
-
 facebook:
   username: ""
   app_id: ""
@@ -145,9 +143,9 @@ exclude:
   - Dockerfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js  - LICENSE
-  - local
-  - log
+  - gulpfile.js
+  - LICENSE
+  - local  - log
   - node_modules
   - package.json*
   - Rakefile
@@ -194,8 +192,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true    permalink: /:collection/:path/
-
+    output: true
+    permalink: /:collection/:path/
 # ==========================
 # Defaults
 # ==========================
@@ -210,14 +208,12 @@ defaults:
       comments: true
       share: true
       related: true
-
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-
   - scope:
       path: ""
       type: publications
@@ -226,7 +222,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
   - scope:
       path: ""
       type: portfolio
@@ -234,7 +229,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
   - scope:
       path: ""
       type: talks
@@ -243,12 +237,12 @@ defaults:
       author_profile: true
       share: true
 
-# ==========================# Sass / SCSS
+# ==========================
+# Sass / SCSS
 # ==========================
 sass:
   sass_dir: _sass
   style: compressed
-
 # ==========================
 # Output / Plugins / Archives
 # ==========================
