@@ -14,4 +14,55 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Mobile CSS: Show social icons on small screens -->
+<style>
+@media (max-width: 800px) {
+  /* Show sidebar/author profile on mobile */
+  .sidebar, .author__profile {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    padding: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  /* Make social icons visible and tappable */
+  .author__urls.social-icons {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 0.75rem !important;
+    margin-top: 0.5rem !important;
+  }
+  
+  .author__urls.social-icons li {
+    display: inline-block !important;
+    margin: 0 !important;
+  }
+  
+  .author__urls.social-icons a {
+    font-size: 1.4rem !important;
+    padding: 0.4rem !important;
+    color: #24292e !important;
+    transition: transform 0.2s ease;
+  }
+  
+  .author__urls.social-icons a:hover {
+    transform: scale(1.15);
+    color: #0366d6 !important;
+  }
+  
+  /* Optional: Add subtle background for better tap target */
+  .author__urls.social-icons a {
+    background: rgba(3, 102, 214, 0.08);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+  }
+}
+</style>
+
 <!-- end custom head snippets -->
