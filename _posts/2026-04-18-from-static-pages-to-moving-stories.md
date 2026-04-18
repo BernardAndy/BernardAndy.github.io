@@ -16,19 +16,14 @@ categories:
   - Personal Journey
   - Science Communication
 ---
-<div style="float: right; clear: right; margin: 0 0 1em 1em; padding: 0.5em 1em; border-left: 3px solid #0366d6; background: #f6f8fa; font-size: 0.9em; max-width: 280px; border-radius: 4px;">
-  📺 📸 <strong>Progress Update:</strong><br>
-  My journey is being shared on <strong>YouTube</strong> and <strong>Instagram</strong>.<br><br>
-  To view them, kindly click on the links in my <em>sidebar</em> to see how far I have gone.
-</div>
 
 There is a quiet shift that happens when you move from consuming content to creating it. For me, that shift began sometime in 2024 not with a grand plan, but with a single decision: **to show up**.
 
-It started with LinkedIn. I created my account, unsure of what direction it would take, but certain that I wanted to exist in the space where ideas are shared, challenged, and refined. From there, things began to expand organically. One platform led to another: Facebook, Instagram, YouTube, GitHub, ResearchGate, Medium, Threads, and beyond.
+It started with <a href="https://www.linkedin.com/in/realabernard" target="_blank" rel="noopener noreferrer">LinkedIn</a>. I created my account, unsure of what direction it would take, but certain that I wanted to exist in the space where ideas are shared, challenged, and refined. From there, things began to expand organically. One platform led to another: <a href="https://www.facebook.com/andy.molecular.biologist/" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://www.instagram.com/andy.molecular.biologist" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://www.youtube.com/@TMB_Room" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://github.com/BernardAndy" target="_blank" rel="noopener noreferrer">GitHub</a>, <a href="https://www.researchgate.net/profile/Andy-Bernard" target="_blank" rel="noopener noreferrer">ResearchGate</a>, <a href="https://medium.com/@realabernard" target="_blank" rel="noopener noreferrer">Medium</a>, <a href="https://www.threads.net/@andy.molecular.biologist" target="_blank" rel="noopener noreferrer">Threads</a>, and beyond.
 
 What began as isolated accounts gradually became a connected ecosystem each platform linked, each serving a purpose, each contributing to a growing digital presence.
 
-At the center of it all, however, has been **Facebook**. That's where I've been most active. It's where I test ideas, share thoughts, and observe how people engage with scientific content when it is presented in a simple, relatable way. My focus has remained consistent: molecular biology, genomics, and the broader conversations that surround science and life.
+At the center of it all, however, has been <a href="https://www.facebook.com/andy.molecular.biologist/" target="_blank" rel="noopener noreferrer"><strong>Facebook</strong></a>. That's where I've been most active. It's where I test ideas, share thoughts, and observe how people engage with scientific content when it is presented in a simple, relatable way. My focus has remained consistent: molecular biology, genomics, and the broader conversations that surround science and life.
 
 But content creation is not just about writing.
 
@@ -86,7 +81,7 @@ And video is a powerful medium for that.
 
 ## A Living Portfolio
 
-As part of this journey, I'm documenting everything not just on social platforms, but also here on **GitHub** as part of my portfolio.
+As part of this journey, I'm documenting everything not just on social platforms, but also here on <a href="https://github.com/BernardAndy" target="_blank" rel="noopener noreferrer"><strong>GitHub</strong></a> as part of my portfolio.
 
 Not because it's perfect.
 **But because it's real.**
