@@ -86,7 +86,7 @@ And video is a powerful medium for that.
 
 ## A Living Portfolio
 
-As part of this journey, I'm documenting everything—not just on social platforms, but also here on **GitHub** as part of my portfolio.
+As part of this journey, I'm documenting everything not just on social platforms, but also here on **GitHub** as part of my portfolio.
 
 Not because it's perfect.
 **But because it's real.**
