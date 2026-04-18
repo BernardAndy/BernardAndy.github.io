@@ -33,6 +33,9 @@ author:
   twitter: "Benhud_Andi"
   youtube: "TMB_Room"
   medium: "https://medium.com/@realabernard"
+  facebook: "https://www.facebook.com/profile.php?id=61551745063114"
+  instagram: "https://www.instagram.com/andy.molecular.biologist"
+  threads: "https://www.threads.net/@andy.molecular.biologist"
 
 # ==========================
 # Publication Categories
@@ -44,7 +47,6 @@ publication_category:
     title: "Journal Articles"
   conferences:
     title: "Conference Papers"
-
 # ==========================
 # Site Settings
 # ==========================
@@ -94,8 +96,7 @@ yandex_site_verification: ""
 
 # ==========================
 # Social Sharing
-# ==========================
-twitter:
+# ==========================twitter:
   username: "Benhud_Andi"
 
 facebook:
@@ -144,8 +145,7 @@ exclude:
   - Dockerfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
+  - gulpfile.js  - LICENSE
   - local
   - log
   - node_modules
@@ -194,8 +194,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: true    permalink: /:collection/:path/
 
 # ==========================
 # Defaults
@@ -244,8 +243,7 @@ defaults:
       author_profile: true
       share: true
 
-# ==========================
-# Sass / SCSS
+# ==========================# Sass / SCSS
 # ==========================
 sass:
   sass_dir: _sass
