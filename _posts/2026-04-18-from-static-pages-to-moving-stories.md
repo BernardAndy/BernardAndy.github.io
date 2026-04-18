@@ -16,6 +16,11 @@ categories:
   - Personal Journey
   - Science Communication
 ---
+<div style="float: right; clear: right; margin: 0 0 1em 1em; padding: 0.5em 1em; border-left: 3px solid #0366d6; background: #f6f8fa; font-size: 0.9em; max-width: 280px; border-radius: 4px;">
+  📺 📸 <strong>Progress Update:</strong><br>
+  My journey is being shared on <strong>YouTube</strong> and <strong>Instagram</strong>.<br><br>
+  To view them, kindly click on the links in my <em>sidebar (top-right)</em> to see how far I've gone.
+</div>
 
 There is a quiet shift that happens when you move from consuming content to creating it. For me, that shift began sometime in 2024—not with a grand plan, but with a single decision: **to show up**.
 
