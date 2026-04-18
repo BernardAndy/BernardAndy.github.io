@@ -111,41 +111,6 @@ social:
   links: []
 
 # ==========================
-# Footer Social Links
-# ==========================
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/realabernard"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/Benhud_Andi"
-    - label: "YouTube"
-      icon: "fab fa-youtube"
-      url: "https://www.youtube.com/@TMB_Room"
-    - label: "Medium"
-      icon: "fab fa-medium"
-      url: "https://medium.com/@realabernard"
-    - label: "Facebook"
-      icon: "fab fa-facebook"
-      url: "https://www.facebook.com/profile.php?id=61551745063114"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/andy.molecular.biologist"
-    - label: "Threads"
-      icon: "fa-brands fa-threads"
-      url: "https://www.threads.net/@andy.molecular.biologist"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/BernardAndy"
-    - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0009-0005-9480-3086"
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Andy-Bernard"
-# ==========================
 # Analytics
 # ==========================
 analytics:
@@ -180,8 +145,7 @@ exclude:
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
-  - local
-  - log
+  - local  - log
   - node_modules
   - package.json*
   - Rakefile
@@ -194,7 +158,8 @@ keep_files:
   - .svn
 
 # ==========================
-# Markdown / Conversion# ==========================
+# Markdown / Conversion
+# ==========================
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
@@ -229,7 +194,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 # ==========================
 # Defaults
 # ==========================
@@ -243,7 +207,8 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true  - scope:
+      related: true
+  - scope:
       path: ""
       type: pages
     values:
@@ -278,7 +243,6 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed
-
 # ==========================
 # Output / Plugins / Archives
 # ==========================
@@ -292,6 +256,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+
 whitelist:
   - jekyll-feed
   - jekyll-gist
