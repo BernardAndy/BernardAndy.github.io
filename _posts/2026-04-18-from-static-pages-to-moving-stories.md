@@ -3,6 +3,7 @@ layout: post
 title: "From Static Pages to Moving Stories: My First Steps Into Scientific Media Creation"
 date: 2026-04-18
 categories: [science-communication, video-editing, portfolio]
+author_profile: true
 tags: [molecular-biology, genomics, content-creation, github, learning]
 ---
 
